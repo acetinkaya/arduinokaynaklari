@@ -1,3 +1,3 @@
 # Arduino Ders Kaynaklari
 
-## Arduino ders 
+## Arduino ders çalışmaları 
