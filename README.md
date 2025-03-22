@@ -6,4 +6,5 @@
 
 **Arduino** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
-Bu sayfa öğrenciler, araştırmacılar ve 
+Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için 
+
