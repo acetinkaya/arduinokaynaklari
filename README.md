@@ -4,5 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Arduino** alanında temel ve ileri seviye kaynak 
-
+**Arduino** alanında temel ve ileri seviye kaynak kitapları içermektedir.
