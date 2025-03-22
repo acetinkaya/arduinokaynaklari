@@ -4,4 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Arduino** alanında 
+**Arduino** alanında temel ve ileri 
+
