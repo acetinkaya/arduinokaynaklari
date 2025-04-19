@@ -18,7 +18,8 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
-| Uygulamalarla Temel Elektronik | Arduino örnekleriyle temel elektronik ders kitabıdır. | 978-625-439-258-0 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/kitap_17067.html) | 1. |
+| Uygulamalarla Temel Elektronik | Arduino örnekleriyle temel elektronik ders kitabıdır. | 978-625-439-258-0 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/kitap_17067.html) | 1. |    
+| Temel 
 
 
 ---
