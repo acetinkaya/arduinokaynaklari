@@ -23,7 +23,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. S. Özkan &
+1. S. Özkan & H. A. Özkan, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
