@@ -23,7 +23,8 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. S. Özkan & H. A. Özkan, Uygulamalarla
+1. S. Özkan & H. A. Özkan, Uygulamalarla Temel Elektronik,
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
