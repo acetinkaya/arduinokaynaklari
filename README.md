@@ -18,7 +18,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
-| Uygulamalarla Temel Elektronik | Temel elektronik ders kitabıdır. 
+| Uygulamalarla Temel Elektronik | Temel elektronik ders kitabıdır. | 978-
 
 
 ---
