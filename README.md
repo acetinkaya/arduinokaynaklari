@@ -25,6 +25,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ---
 
 1. S. Özkan & H. A. Özkan, Uygulamalarla Temel Elektronik, Nobel Akademik Yayıncılık, Ankara, 2021.
+2. M. 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
